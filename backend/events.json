@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"New event 1 !!!","image":"https://jandevents.com/wp-content/uploads/jand-party.jpg","date":"2023-10-21","description":"dafda","id":"4d291b8b-42c6-4a0b-a9b5-c3ba0ec78626"},{"title":"New event 1","image":"https://jandevents.com/wp-content/uploads/jand-party.jpg","date":"2023-10-21","description":"dafda","id":"9f2e408b-eeb2-43ff-b6eb-4183969079ea"},{"title":"New event","image":"https://jandevents.com/wp-content/uploads/jand-party.jpg","date":"2023-10-21","description":"dafda","id":"f66e9bce-c9df-493b-ab0e-6c426fe4161d"},{"title":"event 1 !!!","image":"https://www.weddingsutra.com/images/Vendor_Images/Wedding_Planners/Version-Events-and-Weddings/version-events-weddings-01.jpg","date":"2023-10-12","description":"My event","id":"12282ee7-6fdb-4ede-914c-b6491c50532e"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
